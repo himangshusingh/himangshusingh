@@ -14,4 +14,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reyan1357&theme=gruvbox&hide_border=false)<br/>
 
 <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theguywiththenotepad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himangshu-singh-a2b2a1221/) 
